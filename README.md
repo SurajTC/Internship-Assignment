@@ -12,3 +12,13 @@ of features.
 regression models on the given dataset and evaluate the performance of individual
 models to select the one with high accuracy to maximize the efficiency of price
 prediction system.
+
+### Result Ananlysis
+
+| Algorithm used | R2 Score |
+| --------------- | --------------- |
+| Random Forest Regressor | 0.9217 |
+| Gradient Boosting Regressor | 0.9053 |
+| Decision Tree Regressor | 0.9049 |
+| Extra Tree Regressor | 0.9000 |
+| Linear Regression | 0.8993 |
